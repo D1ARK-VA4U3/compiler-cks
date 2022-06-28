@@ -11,6 +11,6 @@
 
 # git clone https://github.com/D1ARK-VA4U3/compiler-cks
 # cd compiler-cks
-# python2 compileMarshal.py
+# python2 compile-marshal.py
 
 # Thanks Enjoy This Tools
